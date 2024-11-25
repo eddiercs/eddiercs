@@ -30,7 +30,7 @@ const stebs = {
             },
             backEnd: {
                 Javascript:
-                Python
+                Python:
             },
            
         },
