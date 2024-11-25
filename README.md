@@ -1,37 +1,24 @@
-<p align="center">  
-  <strong>Hello World! 🌍</strong>  
-</p>  
+## Hello, World! 👋
 
-<br><br>
-
-<p align="center">  
-  <img width ="460" height= "360" src="https://photojournal.jpl.nasa.gov/browse/PIA22353.gif" alt="">  
-  </p>
-
-  <br>
-  <p align="center">
-    <strong>Welcome to My GitHub Profile!
-  </p>
-      
-  <p align="center">I am a Forest Engineer and Systems Analyst, focused on front-end development
-  </p>
-
-  <details>
-  <summary>More about me</summary>
+<div align="center">
   
-  <div align="center">
-    <pre>
-<code>
+<img src="https://photojournal.jpl.nasa.gov/browse/PIA22353.gif" />
+
+I am a Forest Engineer and Systems Analyst, focusing on web design and front-end.
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
 const stebs = {
     personal: {
         fullName: 'Eduardo Carvalho da Silva',
         birthDate: 'January 5, 1994',
-
-        interests: ['music', 'games', 'language learning', 'anime', 'astronomy','sports'],
-
+        interests: ['music', 'games', 'language learning', 'anime', 'sports', 'astronomy'],
         motivation: [
-            'learn something every day',
-            'Making life easier and more accessible through programming',
+            'Help improving diversity and inclusion',
+            'Making life easier and smarter through tech',
         ],
     },
     technical: {
@@ -42,30 +29,18 @@ const stebs = {
                 CSS: ['sass', 'styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Javascript,
-                Python,
+                Javascript:
+                Python
             },
+           
         },
     }
 }
-</code>
-    </pre>
+```
   </div>
 </details>
 
-
-
-<!--
-**eddiercs/eddiercs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:eduardo94ecs@gmail.com)
+[![Linkedin: eduardocarvalho](https://img.shields.io/badge/-Linkedn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardocarvalho/)](https://www.linkedin.com/in/eduardo-carvalho-571192120/)
+[![GitHub: eduardocarvalho](https://img.shields.io/github/followers/eddiercs?label=follow&style=social)](https://github.com/eddiercs)
+</div>
