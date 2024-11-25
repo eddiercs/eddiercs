@@ -1,4 +1,8 @@
-## Hello World 👋
+<p align="center"> ## Hello World 👋
+
+<p align="center">
+    <img width ="560" height= "360" src\assets\to_readme\nebu.gif>
+</p>
 
 <!--
 **eddiercs/eddiercs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
