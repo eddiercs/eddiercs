@@ -4,10 +4,10 @@
   
 <img src="https://photojournal.jpl.nasa.gov/browse/PIA22353.gif" />
 
-I am a Forest Engineer and Systems Analyst, focusing on web design and front-end.
+### I am a Forest Engineer and Systems Analyst, focusing on web design and front-end.
 
 <details>
-  <summary> More about me</summary>
+  <summary> <strong>More about me</strong></summary>
 <div align="left">
  
 ``` js
