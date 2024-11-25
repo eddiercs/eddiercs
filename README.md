@@ -17,8 +17,8 @@ const stebs = {
         birthDate: 'January 5, 1994',
         interests: ['music', 'games', 'language learning', 'anime', 'sports', 'astronomy'],
         motivation: [
-            'Help improving diversity and inclusion',
-            'Making life easier and smarter through tech',
+            'learn something every day',
+            'Making life easier and more accessible through programming',
         ],
     },
     technical: {
