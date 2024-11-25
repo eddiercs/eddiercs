@@ -1,4 +1,4 @@
-<p align="center"> ## Hello World 👋
+ ##Hello World 👋
 
 <p align="center">
     <img width ="560" height= "360" src\assets\to_readme\nebu.gif>
