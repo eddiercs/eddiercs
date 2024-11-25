@@ -1,9 +1,12 @@
- ##Hello World 👋
+<p align="center">  
+  <strong>Hello World! 🌍</strong>  
+</p>  
 
-<p align="center">
-    <img width ="320" height= "260" src\assets\to_readme\nebu.gif>
+<br><br><br>  
+
+<p align="center">  
+  <img width ="360" height= "260" src="assets\to_readme\nebu.gif>" alt="Nebulosa">  
 </p>
-
 <!--
 **eddiercs/eddiercs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
